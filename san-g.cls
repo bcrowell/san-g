@@ -23,4 +23,4 @@
 \makeatother
 \pagenumbering{gobble}
 %===============================================
-\newcommand{\myfooter}{\vfill\hfill\footnotesize{Ben Crowell, github.com/bcrowell/san\_g CC-BY-SA}}
+\newcommand{\myfooter}{\vfill\hfill\footnotesize{Ben Crowell, github.com/bcrowell/san-g CC-BY-SA}}
